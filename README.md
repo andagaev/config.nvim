@@ -5,7 +5,7 @@
 ### Clone
 
 ```
-git clone https://github.com/minev-dev/config.nvim.git ~/.config/nvim
+git clone https://github.com/andagaev/config.nvim.git ~/.config/nvim
 ```
 
 ### Install all LSP servers
